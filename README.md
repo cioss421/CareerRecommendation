@@ -46,7 +46,10 @@ The system follows a structured workflow consisting of the following key process
 ---
 
 ## ⚙️ Usage (Abstract Implementation)
-   Ikaw here Lucuis
+   In the implementation of abstraction, we utilized the abstraction by using it to categorize the different fields. starting with the abstract class CareerField, 
+   this sets up the format of the rest of the subclasses with field(), recommendationCourse(), jobOpportunities(), and otherInfo() as its abstract methods. 
+   the actual fields now inherit from CareerField, and put their information in the respective abstract methods. the program then uses a switch statement to 
+   determine which of the career fields will have their information displayed for the user.
 
 ---
 
