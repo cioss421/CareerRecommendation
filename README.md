@@ -61,8 +61,9 @@ OVERVIEW
 
 ## 📈 Accuracy and Metrics Performance
 - Best Classification Algorithm: RandomForestClassifier
+  
 | Metric         |     Value    |
-|:---------------|:------------:|
+|----------------|--------------|
 | Accuracy       |est. 69% - 63%|
 | Macro avg      |est. 66% - 60%|
 | Weighted avg   |est. 68% - 61%|
