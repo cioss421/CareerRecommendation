@@ -9,7 +9,7 @@ The Career Recommendation System is designed to help students make informed care
 The system follows a structured workflow consisting of the following key processes:
 
 ### Data Collection
--The system gathers user data through a series of questions that focus on personality type, skills, interests, and other relevant factors. Once the data is collected, it is sorted and processed using our recommendation algorithm to ensure accurate and meaningful career suggestions.
+- The system gathers user data through a series of questions that focus on personality type, skills, interests, and other relevant factors. Once the data is collected, it is sorted and processed using our recommendation algorithm to ensure accurate and meaningful career suggestions.
 
 ### Recommendation Model
 - Our model uses the RandomForestClassifier, as it achieved the highest accuracy among our evaluated algorithms. By applying RandomForestClassifier, the system effectively sorts and classifies user data, allowing it to generate career recommendations tailored to the user’s responses.
