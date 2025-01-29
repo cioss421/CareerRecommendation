@@ -70,6 +70,18 @@ OVERVIEW
 
 ---
 
+## CONTACTS
+- ABSTRACTION IMPLEMENTATION
+   Author:
+   Email:
+
+- GUI IMPLEMENTATION
+   Author:
+   Email:
+
+- ML MODEL
+    Author:
+    Email:
 
 
 
