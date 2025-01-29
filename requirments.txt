@@ -1,0 +1,19 @@
+# Career Recommendation System - Setup Guide
+
+## Prerequisites
+1. Install JavaFX  
+   - Follow the [JavaFX installation guide](https://openjfx.io/openjfx-docs/)
+   
+2. Set up Python Virtual Environment 
+   - Create Virtual Environment and Activate
+   ```sh
+   python -m venv venv
+   venv\Scripts\activate  # Windows
+   source venv/bin/activate  # macOS/Linux
+
+    - Install all following packages
+    ```sh
+    pip install scikit-learn numpy pandas
+
+3. Download train_dataset.csv
+   Link: https://docs.google.com/spreadsheets/d/1OlIQXwl1kYaHx4sPqv8HoqTcQg5o-mhQKOK3A95mjKs/edit?usp=sharing
