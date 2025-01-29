@@ -1,6 +1,21 @@
 # 🚀 CAREER RECOMMENDATION SYSTEM
 
-OVERVIEW
+The Career Recommendation System is designed to help students make informed career choices by analyzing their personal attributes, interests, and other key factors. The system employs machine learning algorithms to generate personalized career recommendations based on user data collected from the questionnaire.
+
+---
+
+## SYSTEM WORKFLOW
+
+The system follows a structured workflow consisting of the following key processes:
+
+### Data Collection
+-The system gathers user data through a series of questions that focus on personality type, skills, interests, and other relevant factors. Once the data is collected, it is sorted and processed using our recommendation algorithm to ensure accurate and meaningful career suggestions.
+
+### Recommendation Model
+- Our model uses the RandomForestClassifier, as it achieved the highest accuracy among our evaluated algorithms. By applying RandomForestClassifier, the system effectively sorts and classifies user data, allowing it to generate career recommendations tailored to the user’s responses.
+
+### Expected Output
+- Based on the collected information, the system predicts a suitable career path for the user, providing a recommendation that aligns with their profile and preferences.
 
 ---
 
