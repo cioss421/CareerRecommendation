@@ -71,17 +71,11 @@ OVERVIEW
 ---
 
 ## CONTACTS
-- ABSTRACTION IMPLEMENTATION
-   Author:
-   Email:
-
-- GUI IMPLEMENTATION
-   Author:
-   Email:
-
-- ML MODEL
-    Author:
-    Email:
+| **Component**           | **Author**          | **Email**                |
+|--------------------------|---------------------|--------------------------|
+| Abstraction Implementation | Lucius Gamboa       | luciusgamboa03@gmail.com       |
+| GUI Implementation      | Ralph Wendel Esperon       | ralphwendelf@gmail.com       |
+| ML Model                | Nhico Paragas       | nj.paragas8@gmail.com      |
 
 
 
